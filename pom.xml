@@ -10,17 +10,17 @@
     <groupId>com.example</groupId>
 
     <!-- The artifact ID represents the name of the project or module -->
-    <artifactId>my-maven-project</artifactId>
+    <artifactId>maven-first-project</artifactId>
 
     <!-- The version of the project -->
-    <version>1.0-SNAPSHOT</version>
+    <version>1.0</version>
 
     <!-- Packaging type (JAR, WAR, etc.) -->
     <packaging>jar</packaging>
 
     <!-- Project description -->
     <name>My Maven Project</name>
-    <url>http://www.example.com</url>
+    <url>http://www.mavenexample.com</url>
 
     <!-- Maven's default repositories -->
     <repositories>
